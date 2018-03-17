@@ -1,0 +1,9 @@
+k = 1, errorRate = 0.165919
+k = 2, errorRate = 0.223094
+k = 3, errorRate = 0.174888
+k = 4, errorRate = 0.190583
+k = 5, errorRate = 0.183857
+k = 6, errorRate = 0.192825
+k = 7, errorRate = 0.196188
+k = 8, errorRate = 0.207399
+k = 9, errorRate = 0.210762
