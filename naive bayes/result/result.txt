@@ -1,0 +1,11 @@
+the classifier came back with: 1, the real label is: 1
+the classifier came back with: 0, the real label is: 0
+the classifier came back with: 1, the real label is: 1
+the classifier came back with: 1, the real label is: 1
+the classifier came back with: 0, the real label is: 0
+the classifier came back with: 1, the real label is: 0
+the classifier came back with: 0, the real label is: 0
+the classifier came back with: 1, the real label is: 1
+the classifier came back with: 1, the real label is: 1
+the number of errors is: 1
+the precision is: 0.888889
